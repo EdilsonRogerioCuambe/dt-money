@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Comprei um novo notebook para o trabalho.",
+      "price": 6000,
+      "type": "outcome",
+      "category": "Eletrônicos",
+      "createdAt": "2021-02-12T12:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "description": "Vendi uma bicicleta que não usava mais.",
+      "price": 1500,
+      "type": "income",
+      "category": "Vendas",
+      "createdAt": "2021-02-14T12:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "description": "Comprei um novo celular.",
+      "price": 3000,
+      "type": "outcome",
+      "category": "Eletrônicos",
+      "createdAt": "2021-02-15T12:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "description": "Recebi meu salário.",
+      "price": 5000,
+      "type": "income",
+      "category": "Salário",
+      "createdAt": "2021-02-15T12:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "description": "Comprei um novo fone de ouvido.",
+      "price": 500,
+      "type": "outcome",
+      "category": "Eletrônicos",
+      "createdAt": "2021-02-16T12:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "description": "Comprei um novo teclado.",
+      "price": 500,
+      "type": "outcome",
+      "category": "Eletrônicos",
+      "createdAt": "2021-02-16T12:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "description": "Comprei um novo mouse.",
+      "price": 500,
+      "type": "outcome",
+      "category": "Eletrônicos",
+      "createdAt": "2021-02-16T12:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "description": "Comprei um novo monitor.",
+      "price": 500,
+      "type": "outcome",
+      "category": "Eletrônicos",
+      "createdAt": "2021-02-16T12:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "description": "Comprei um novo HD externo.",
+      "price": 500,
+      "type": "outcome",
+      "category": "Eletrônicos",
+      "createdAt": "2021-02-16T12:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "type": "income",
+      "description": "Recebi meu salário.",
+      "price": 5000,
+      "category": "Salário",
+      "createdAt": "2021-02-16T12:00:00.000Z"
+    },
+    {
+      "id": "11",
+      "type": "income",
+      "description": "Recebi meu salário.",
+      "price": 5000,
+      "category": "Salário",
+      "createdAt": "2021-02-16T12:00:00.000Z"
+    },
+    {
+      "description": "Aluguel",
+      "price": 400,
+      "category": "Casa",
+      "type": "outcome",
+      "createdAt": "2023-08-10T04:02:59.743Z",
+      "id": "KTVr0JG"
+    },
+    {
+      "description": "Rancho",
+      "price": 250,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2023-08-10T04:14:38.261Z",
+      "id": "5x7hk6M"
+    }
+  ]
+}
